@@ -1,3 +1,3 @@
 export default function Home() {
-  return <>Hello world 2</>;
+  return <>Hello world 3</>;
 }
